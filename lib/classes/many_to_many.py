@@ -30,6 +30,8 @@ hint: hasattr()'''
             self._result = new_result
 
     def players(self):
+        player_freq = {}
+        if type
         pass
 
     def average_score(self, player):
